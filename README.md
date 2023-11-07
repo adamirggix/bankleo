@@ -2,7 +2,7 @@
 
 A simple-interest yielding bank account in Leo.
 
-## Discord: adamriggiexfo
+Discord: adamriggiexfo
 
 ## Summary
 
