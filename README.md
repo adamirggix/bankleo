@@ -2,6 +2,8 @@
 
 A simple-interest yielding bank account in Leo.
 
+## Discord: adamriggiexfo
+
 ## Summary
 
 This program implements a bank that issues tokens to users and allows users to deposit tokens to accrue simple interest on their deposits.
